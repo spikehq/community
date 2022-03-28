@@ -1,4 +1,4 @@
-# community
+# Community
 
 ### Welcome 👋
 
@@ -11,6 +11,8 @@ Here's what one can do:
 3. _for spike.sh users_ - Our team will share roadmap, ideas, and bugs (so can you). Please do upvote them and feel free to add your thoughts. 
 
 This will be a small group which is super nice. Please be respectful and open-minded. 
+
+Start with the [discussions tab](https://github.com/spikehq/community/discussions).
 
 Thanks,
 
